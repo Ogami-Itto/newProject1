@@ -25,3 +25,7 @@ If others have contributed to your project in any way, it is important to give t
 # License: 
 
 It’s also important to list a license on your README so other developers can understand what they can and cannot do with your project. You can use this guide to help you choose a license.
+
+# Image
+
+![Image to add](./images/Use-Case-Diagram-580584792.jpg)
